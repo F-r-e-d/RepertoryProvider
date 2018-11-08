@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Repertory Provider</string>
+    <string name="text">Fournisseur de contenu. \nTable :  REPERTORY(id:int, name:text, number:text). \nPour accéder à cette table en lecture ou en écriture, on doit passer par le fournisseur de contenu appelé: com.repertoryprovider</string>
+</resources>
