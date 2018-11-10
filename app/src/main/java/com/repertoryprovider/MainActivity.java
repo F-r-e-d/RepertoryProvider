@@ -26,8 +26,9 @@ public class MainActivity extends AppCompatActivity {
         String countNum = "Repertory App: "+ count +" records are deleted.";
         Toast.makeText(getBaseContext(),
                 countNum, Toast.LENGTH_LONG).show();
-
     }
+
+
     public void addRepertory(View view) {
 // Add a new repertory record
         ContentValues values = new ContentValues();
