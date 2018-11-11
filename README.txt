@@ -1,3 +1,3 @@
-Fournisseur contenu.
-- Possibilité d'ajouter des noms et numéros de téléphone.
-- Possibilité d'effacer toutes les entrées.
+RepertoryProvider est un fournisseur contenu.
+- Il permet d'ajouter des noms et numéros de téléphone associés.
+- Il permet d'effacer toutes les entrées.
